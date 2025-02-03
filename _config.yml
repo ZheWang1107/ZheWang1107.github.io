@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhe Wang"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "Zhejiang University"
   location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  employer         : # "Zhejiang University"
   uri              : # URL
   email            : "3200104694@zju.edu.cn" 
 
