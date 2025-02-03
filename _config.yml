@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Zhe Wang"
 description              : &description "personal description"
 url                      : "https://zhewang1107.github.io/ZheWang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "ZheWang1107/ZheWang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhe Wang"
+  name             : "Zhe Wang (王哲)"
   pronouns         : # example: "she/her"  
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
