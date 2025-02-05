@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "A Conditional Factor Model for Currency Option Returns"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'We propose an IPCA latent factor model for pricing currency option returns. The model connects time-varying factor loadings with changing economic conditions on currency, option and the world economy. It consistently outperforms existing models in explaining currency straddle returns, with a more powerful pricing kernel for asset pricing. We also propose a new risk-based option momentum strategy that outperforms traditional return-based option momentum substantially, with a much greater Sharpe ratio. It is driven by risk and explains the traditional momentum, thereby providing a rational justification for the latter. Overall, our model offers novel economic insights and sets a new benchmark for understanding anomalies in the currency options market.'
+date: # 2009-10-01
+venue: # 'Journal 1'
+slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516'
+citation: 'Filippou, I., Wang, Z., Xu, Q., & Zhou, G. (2024). A Conditional Factor Model for Currency Option Returns. Available at SSRN.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
