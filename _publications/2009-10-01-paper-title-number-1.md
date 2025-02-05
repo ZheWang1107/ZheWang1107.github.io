@@ -3,6 +3,7 @@ title: "A Conditional Factor Model for Currency Option Returns"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
+coauthor: Filippou
 excerpt: 'We propose an IPCA latent factor model for pricing currency option returns. The model connects time-varying factor loadings with changing economic conditions on currency, option and the world economy. It consistently outperforms existing models in explaining currency straddle returns, with a more powerful pricing kernel for asset pricing. We also propose a new risk-based option momentum strategy that outperforms traditional return-based option momentum substantially, with a much greater Sharpe ratio. It is driven by risk and explains the traditional momentum, thereby providing a rational justification for the latter. Overall, our model offers novel economic insights and sets a new benchmark for understanding anomalies in the currency options market.'
 date: 2024-11-18
 venue: # 'Journal 1'
