@@ -78,9 +78,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  workingpapers:
     title: 'Working Papers'    
-  conferences:
+  publications:
     title: 'Publications'
 
 # Site Settings
