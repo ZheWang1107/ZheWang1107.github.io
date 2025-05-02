@@ -12,5 +12,5 @@ paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516'
 citation: 'LIN, JIAWEI and Taylor, Mark P. and Wang, Zhe and Xu, Qi, FOMC Announcement Premia in Currency Markets (May 01, 2025). Available at SSRN: https://ssrn.com/abstract='
 ---
 
-<img src='/images/IPCA.png'><br/>
-*Notes*: These four charts plot unconditional alpha and conditional alpha at the managed portfolio level, both annualized and scaled to 10% volatility. Unconditional alpha is obtained from a time series regression, and conditional alpha is obtained by calculating the residuals period by period. Those that are significant at the 1%, 5%, and 10% confidence levels are labeled red, orange, and yellow, respectively, and those that are not significant are labeled green. The sample period is from January 2006 to December 2022.
+<img src='/images/FOMC.png'><br/>
+*Notes*: This figure plots the intraday return dyanmics of EVR-sorted long-short portfolio on the FOMC announcement day. The solid line represents the average cumulative exchange rate return from 4:00 PM on the previous trading day to 4 PM on the FOMC announcement day. The shaded area represents the 95% confidence interval. The red vertical line indicates the FOMC announcement time, which is typically around 2 PM. The sample period spans 133 announcement days, starting from March 2006 to December 2022.
