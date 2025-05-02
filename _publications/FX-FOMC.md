@@ -12,5 +12,4 @@ paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516'
 citation: 'LIN, JIAWEI and Taylor, Mark P. and Wang, Zhe and Xu, Qi, FOMC Announcement Premia in Currency Markets (May 01, 2025). Available at SSRN: https://ssrn.com/abstract='
 ---
 
-<img src='/images/IPCA.png'><br/>
-*Notes*: These four charts plot unconditional alpha and conditional alpha at the managed portfolio level, both annualized and scaled to 10% volatility. Unconditional alpha is obtained from a time series regression, and conditional alpha is obtained by calculating the residuals period by period. Those that are significant at the 1%, 5%, and 10% confidence levels are labeled red, orange, and yellow, respectively, and those that are not significant are labeled green. The sample period is from January 2006 to December 2022.
+
