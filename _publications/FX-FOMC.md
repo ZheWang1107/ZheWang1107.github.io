@@ -3,7 +3,7 @@ title: "FOMC Announcement Premia in Currency Markets"
 collection: publications
 category: workingpapers
 permalink: /publication/FX-FOMC
-coauthors: Jiawei Lin, Mark P. Taylor, Zhe Wang, Qi Xu
+coauthors: Jiawei Lin, Mark P. Taylor, Zhe Wang and Qi Xu
 excerpt: 'This paper explores how currency risk premia vary on U.S. FOMC announcement days. We propose a new measure, the expected reduction in currency option implied variance (EVR), capturing exposure to monetary policy uncertainty. Currencies with higher EVR earn significantly higher returns on announcement days. A long-short strategy based on EVR yields substantial profits, even after adjusting for risk factors. Pre-announcement effects primarily drive these returns, with monetary policy shocks being the dominant factor, while central bank information shocks play a secondary role. The findings align with financial intermediaries' risk constraints, underscoring monetary policy uncertainty as a key driver of cross-sectional currency risk premia.'
 date: 2025-05-01
 venue: # 'Journal 1'
