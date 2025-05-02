@@ -1,15 +1,15 @@
 ---
-title: "A Conditional Factor Model for Currency Option Returns"
+title: "FOMC Announcement Premia in Currency Markets"
 collection: publications
 category: workingpapers
-permalink: /publication/FXO-IPCA
-coauthors: Ilias Filippou, Qi Xu and Guofu Zhou
-excerpt: 'We propose an IPCA latent factor model for pricing currency option returns. The model connects time-varying factor loadings with changing economic conditions on currency, option and the world economy. It consistently outperforms existing models in explaining currency straddle returns, with a more powerful pricing kernel for asset pricing. We also propose a new risk-based option momentum strategy that outperforms traditional return-based option momentum substantially, with a much greater Sharpe ratio. It is driven by risk and explains the traditional momentum, thereby providing a rational justification for the latter. Overall, our model offers novel economic insights and sets a new benchmark for understanding anomalies in the currency options market.'
-date: 2024-11-18
+permalink: /publication/FX-FOMC
+coauthors: Jiawei Lin, Mark P. Taylor, Zhe Wang, Qi Xu
+excerpt: 'This paper explores how currency risk premia vary on U.S. FOMC announcement days. We propose a new measure, the expected reduction in currency option implied variance (EVR), capturing exposure to monetary policy uncertainty. Currencies with higher EVR earn significantly higher returns on announcement days. A long-short strategy based on EVR yields substantial profits, even after adjusting for risk factors. Pre-announcement effects primarily drive these returns, with monetary policy shocks being the dominant factor, while central bank information shocks play a secondary role. The findings align with financial intermediaries' risk constraints, underscoring monetary policy uncertainty as a key driver of cross-sectional currency risk premia.'
+date: 2025-05-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516'
-citation: 'Filippou, I., Wang, Z., Xu, Q., & Zhou, G. (2024). A Conditional Factor Model for Currency Option Returns. Available at SSRN.'
+citation: 'LIN, JIAWEI and Taylor, Mark P. and Wang, Zhe and Xu, Qi, FOMC Announcement Premia in Currency Markets (May 01, 2025). Available at SSRN: https://ssrn.com/abstract='
 ---
 
 <img src='/images/IPCA.png'><br/>
