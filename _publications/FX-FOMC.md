@@ -8,7 +8,7 @@ excerpt: "This paper explores how currency risk premia vary on U.S. FOMC announc
 date: 2025-05-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237922'
 citation: 'LIN, JIAWEI and Taylor, Mark P. and Wang, Zhe and Xu, Qi, FOMC Announcement Premia in Currency Markets (May 01, 2025). Available at SSRN: https://ssrn.com/abstract='
 ---
 
