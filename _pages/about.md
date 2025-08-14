@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am a PhD student at [the School of Economics, Zhejiang University](http://www.cec.zju.edu.cn/). I graduated with a Bachelor's degree in Finance from the same institution in 2024, and then directly pursued my PhD at Zhejiang University.
-
-My research interests lie in **Asset Pricing** and **Behavioral Finance**. I welcome any feedback on my working papers!
+Welcome to my personal website! I am a PhD student at [the School of Economics, Zhejiang University](http://www.cec.zju.edu.cn/). I graduated with a Bachelor's degree in Finance from the same institution in 2024, and then directly pursued my PhD at Zhejiang University.<br>My research interests lie in **Asset Pricing** and **Behavioral Finance**. I welcome any feedback on my working papers!
 
 ## Education
 - **Zhejiang University, School of Economics**<br>Ph.D. in Finance, 2024 – Present<br>B.A. in Finance, 2020 – 2024
