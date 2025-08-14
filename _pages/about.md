@@ -9,10 +9,15 @@ redirect_from:
 
 Welcome to my personal website! I am a PhD student at [the School of Economics, Zhejiang University](http://www.cec.zju.edu.cn/). I graduated with a Bachelor's degree in Finance from the same institution in 2024, and then directly pursued my PhD at Zhejiang University.
 
-My research interests lie in **empirical asset pricing** and **international finance**, including factor models for stocks, foreign exchange, and forex options. I am also exploring theoretical asset pricing, with a focus on integrating macroeconomic information closely with asset pricing. I welcome any feedback on theoretical studies or working papers!
+My research interests lie in **Asset Pricing** and **Behavioral Finance**. I welcome any feedback on my working papers!
 
 ## Education
-- Zhejiang University, School of Economics  
+- **Zhejiang University, School of Economics** 
 Ph.D. in Finance, 2024 – Present  
 B.A. in Finance, 2020 – 2024
 
+## Working Papers
+1. [A Conditional Factor Model for Currency Option Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516) (with Ilias Filippou, Qi Xu and Guofu Zhou)
+2025 Symposium on Foreign Exchange Markets, 2025 International Finance Society Annual Meeting, 2024 Chinese Finance Annual Meeting, 2024 8th China Derivatives Youth Forum, 2024 XJLU Asset Pricing and Derivatives Workshop, 2024 CIRF/CFRI Annual Conference
+2. [FOMC Announcement Premia in Currency Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237922) (with Jiawei Lin, Mark P. Taylor, and Qi Xu)
+2025 Future Scholars in Finance Forum at Tsinghua University, 2024 ZIBS Annual Academic Forum, 2024 Chinese Finance Annual Meeting, 2024 AFR Conference of Economics and Finance
