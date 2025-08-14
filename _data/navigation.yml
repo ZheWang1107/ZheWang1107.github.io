@@ -11,8 +11,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-    - title: "Notes"
-    url: /talks/    
+  - title: "Notes"
+  url: /talks/    
     
   - title: "Internship"
     url: /portfolio/
