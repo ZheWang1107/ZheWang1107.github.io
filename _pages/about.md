@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "👋 Welcome to My Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# 👋 Welcome to My Personal Website  
 
 I am a PhD student at [the School of Economics, Zhejiang University](http://www.cec.zju.edu.cn/).  
 I graduated with a **B.A. in Finance** from the same institution in 2024, and then directly pursued my PhD at Zhejiang University.  
