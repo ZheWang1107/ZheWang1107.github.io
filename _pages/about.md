@@ -26,14 +26,11 @@ I graduated with a **B.A. in Finance** from the same institution in 2024, and th
 
 1. [**A Conditional Factor Model for Currency Option Returns**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516)  
    *(with Ilias Filippou, Qi Xu and Guofu Zhou)*  
-   📌 Presented at: 2025 Symposium on Foreign Exchange Markets, 2025 International Finance Society Annual Meeting,  
-   2024 Chinese Finance Annual Meeting, 2024 8th China Derivatives Youth Forum,  
-   2024 XJLU Asset Pricing and Derivatives Workshop, 2024 CIRF/CFRI Annual Conference  
+   📌 Presented at: 2025 Symposium on Foreign Exchange Markets, 2025 International Finance Society Annual Meeting, 2024 Chinese Finance Annual Meeting, 2024 8th China Derivatives Youth Forum, 2024 XJLU Asset Pricing and Derivatives Workshop, 2024 CIRF/CFRI Annual Conference  
 
 2. [**FOMC Announcement Premia in Currency Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237922)  
    *(with Jiawei Lin, Mark P. Taylor, and Qi Xu)*  
-   📌 Presented at: 2025 Future Scholars in Finance Forum (Tsinghua University), 2024 ZIBS Annual Academic Forum,  
-   2024 Chinese Finance Annual Meeting, 2024 AFR Conference of Economics and Finance  
+   📌 Presented at: 2025 Future Scholars in Finance Forum (Tsinghua University), 2024 ZIBS Annual Academic Forum, 2024 Chinese Finance Annual Meeting, 2024 AFR Conference of Economics and Finance  
 
 3. **Pre-Announcement Drift Spillover: Evidence from China**  
    *(with Qi Xu, and Yizhong Wang)*  
