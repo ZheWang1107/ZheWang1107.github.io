@@ -57,8 +57,7 @@ I graduated with a **B.A. in Finance** from the same institution in 2024, and th
 
 - **Quantitative Research Intern** — Yongan Guofu Asset Management Co. *(Jul 2023 - Oct 2023)*  
 - **Financial Engineering Intern** — Soochow Securities Research Institute *(Jan 2023 - Apr 2023)*  
-  🔎 Focused on intraday and overnight returns in China, and authored an interesting  
-  [research report](https://mp.weixin.qq.com/s/Wu_v-rCHqWpj3S7N_eEYxQ)  
+  🔎 Focused on intraday and overnight returns in China, and produced an interesting [research report](https://mp.weixin.qq.com/s/Wu_v-rCHqWpj3S7N_eEYxQ)  
 - **Investment Banking Intern** — CITIC Securities *(Jul 2022 - Sept 2022)*  
 
 ---
