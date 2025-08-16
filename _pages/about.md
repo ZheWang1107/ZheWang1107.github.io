@@ -19,3 +19,6 @@ Welcome to my personal website! I am a PhD student at [the School of Economics, 
 4. How Monetary Policy Affects Wealth Inequality: Evidence from Stock Transactions (with Yuan Ren, and Yizhong Wang)<br>**Recently focused on completing this working paper.**
 5. Traditional Culture, Trading Behavior, and Asset Pricing (with Wenyu Zhou, Yizhong Wang, and Bohui Zhang)<br>The first draft will be uploaded soon.
 
+## Teaching Assistant
+1. Fixed Income Analytics and Models (Undergraduate, Fall and Winter Terms), 2024
+2. Academic Writing in Finance (Undergraduate, Winter Terms), 2024
