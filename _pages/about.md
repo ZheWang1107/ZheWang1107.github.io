@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a PhD student at [the School of Economics, Zhejiang University](http://www.cec.zju.edu.cn/).  
-I graduated with a **B.A. in Finance** from the same institution in 2024, and then directly pursued my PhD at Zhejiang University.  
+I graduated with a B.A. in Finance from the same institution in 2024, and then directly pursued my PhD at Zhejiang University.  
 
 📚 My research interests lie in **Asset Pricing** and **Behavioral Finance**.  
 💡 I welcome any feedback on my working papers!  
