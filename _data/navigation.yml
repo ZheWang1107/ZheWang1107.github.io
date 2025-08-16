@@ -8,14 +8,14 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
 
   - title: "Notes"
     url: /talks/    
     
-  - title: "Internship"
-    url: /portfolio/
+  # - title: "Internship"
+  #   url: /portfolio/
     
   - title: "CV"
     url: /cv/
