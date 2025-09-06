@@ -33,7 +33,7 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
    📌 Presented at: 2025 Future Scholars in Finance Forum (Tsinghua University), 2024 ZIBS Annual Academic Forum, 2024 Chinese Finance Annual Meeting, 2024 AFR Conference of Economics and Finance  
 
 3. **Pre-Announcement Drift Spillover: Evidence from China**  
-   *(with Qi Xu, and Yizhong Wang)*
+   *(with Qi Xu, and Yizhong Wang)*  
    📌 Presented at: 2025 Chinese Finance Annual Meeting  
    📝 The first draft will be uploaded soon.  
 
