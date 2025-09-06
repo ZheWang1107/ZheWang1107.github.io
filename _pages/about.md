@@ -34,7 +34,7 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
 
 3. **Pre-Announcement Drift Spillover: Evidence from China**  
    *(with Qi Xu, and Yizhong Wang)*
-   📌 Presented at: 2025 Chinese Finance Annual Meeting
+   📌 Presented at: 2025 Chinese Finance Annual Meeting  
    📝 The first draft will be uploaded soon.  
 
 5. **How Monetary Policy Affects Wealth Inequality: Evidence from Stock Transactions**  
