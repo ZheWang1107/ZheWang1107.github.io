@@ -38,11 +38,11 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
    📝 The first draft will be uploaded soon.  
 
 5. **How Monetary Policy Affects Wealth Inequality: Evidence from Stock Transactions**  
-   *(with Yuan Ren, and Yizhong Wang)*  
+   *(with [Yuan Ren](https://person.zju.edu.cn/renyuanfinance), and [Yizhong Wang](https://person.zju.edu.cn/wyz))*  
    🚧 **Currently focusing on completing this paper.**  
 
 6. **Traditional Culture, Trading Behavior, and Asset Pricing**  
-   *(with Wenyu Zhou, Yizhong Wang, and Bohui Zhang)*  
+   *(with [Wenyu Zhou](https://www.wenyu-zhou.com/home), [Yizhong Wang](https://person.zju.edu.cn/wyz), and [Bohui Zhang](https://sites.google.com/site/bohuizhang/))*  
    📝 The first draft will be uploaded soon.  
 
 ---
