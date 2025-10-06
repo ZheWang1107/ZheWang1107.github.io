@@ -57,6 +57,15 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
 
 ---
 
+## 🏆 Honors & Awards  
+
+- **China National Scholarship** *(2023)*  
+- **Zhejiang Provincial Government Scholarship** *(2023)*  
+- **Zhejiang University First Class Scholarship** *(2023)*  
+- **Outstanding Graduate of Zhejiang Province** *(2024)*  
+
+---
+
 ## 💼 Industrial Experience  
 
 - **Quantitative Research Intern** — Yongan Guofu Asset Management Co. *(Jul 2023 - Oct 2023)*  
