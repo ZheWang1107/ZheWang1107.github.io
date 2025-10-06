@@ -19,3 +19,11 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<script>
+  // 从 localStorage 读取主题设置
+  const currentTheme = localStorage.getItem('theme');
+  if (currentTheme === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+</script>
