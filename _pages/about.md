@@ -25,15 +25,15 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
 ## 📝 Working Papers  
 
 1. [**A Conditional Factor Model for Currency Option Returns**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516)  
-   *(with Ilias Filippou, Qi Xu and Guofu Zhou)*  
+   *(with [Ilias Filippou](https://sites.google.com/view/iliasfilippou/), [Qi Xu](https://person.zju.edu.cn/qixu) and [Guofu Zhou](https://guofuzhou.github.io/))*  
    📌 Presented at: 2025 Symposium on Foreign Exchange Markets, 2025 International Finance Society Annual Meeting, 2024 Chinese Finance Annual Meeting, 2024 8th China Derivatives Youth Forum, 2024 XJLU Asset Pricing and Derivatives Workshop, 2024 CIRF/CFRI Annual Conference  
 
 2. [**FOMC Announcement Premia in Currency Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237922)  
-   *(with Jiawei Lin, Mark P. Taylor, and Qi Xu)*  
+   *(with Jiawei Lin, [Mark P. Taylor](https://olin.washu.edu/faculty/mark-taylor), and [Qi Xu](https://person.zju.edu.cn/qixu))*  
    📌 Presented at: 2025 Future Scholars in Finance Forum (Tsinghua University), 2024 ZIBS Annual Academic Forum, 2024 Chinese Finance Annual Meeting, 2024 AFR Conference of Economics and Finance  
 
 3. **Pre-Announcement Drift Spillover: Evidence from China**  
-   *(with Qi Xu, and Yizhong Wang)*  
+   *(with [Qi Xu](https://person.zju.edu.cn/qixu), and [Yizhong Wang](https://person.zju.edu.cn/wyz))*  
    📌 Presented at: 2025 Chinese Finance Annual Meeting  
    📝 The first draft will be uploaded soon.  
 
@@ -49,9 +49,11 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
 
 ## 👨‍🏫 Teaching Assistant  
 
-- Academic Writing in Finance (Undergraduate, Winter Term), 2025  
-- Fixed Income Analytics and Models (Undergraduate, Fall & Winter Terms), 2024  
-- Academic Writing in Finance (Undergraduate, Winter Term), 2024  
+- **Academic Writing in Finance** (Undergraduate)
+  - Winter Term, 2025  
+  - Winter Term, 2024
+- **Fixed Income Analytics and Models** (Undergraduate)
+  - Fall & Winter Terms, 2024
 
 ---
 
