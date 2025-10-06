@@ -24,7 +24,7 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
 
 ## 📝 Selected Working Papers  
 
-1. [**A Conditional Factor Model for Currency Option Returns**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516)  
+1. **A Conditional Factor Model for Currency Option Returns** [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516)]  
    *(with [Ilias Filippou](https://sites.google.com/view/iliasfilippou/), [Qi Xu](https://person.zju.edu.cn/qixu) and [Guofu Zhou](https://guofuzhou.github.io/))*  
    📌 Presented at: 2025 Symposium on Foreign Exchange Markets, 2025 International Finance Society Annual Meeting, 2024 Chinese Finance Annual Meeting, 2024 8th China Derivatives Youth Forum, 2024 XJLU Asset Pricing and Derivatives Workshop, 2024 CIRF/CFRI Annual Conference  
 
