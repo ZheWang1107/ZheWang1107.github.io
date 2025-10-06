@@ -59,10 +59,10 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
 
 ## 🏆 Honors & Awards  
 
+- **Outstanding Graduate of Zhejiang Province** *(2024)* 
 - **China National Scholarship** *(2023)*  
 - **Zhejiang Provincial Government Scholarship** *(2023)*  
 - **Zhejiang University First Class Scholarship** *(2023)*  
-- **Outstanding Graduate of Zhejiang Province** *(2024)*  
 
 ---
 
