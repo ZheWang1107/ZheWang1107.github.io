@@ -22,7 +22,7 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
 
 ---
 
-## 📝 Working Papers  
+## 📝 Selected Working Papers  
 
 1. [**A Conditional Factor Model for Currency Option Returns**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991516)  
    *(with [Ilias Filippou](https://sites.google.com/view/iliasfilippou/), [Qi Xu](https://person.zju.edu.cn/qixu) and [Guofu Zhou](https://guofuzhou.github.io/))*  
@@ -57,7 +57,7 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
 
 ---
 
-## 🏆 Honors & Awards  
+## 🏆 Selected Honors & Awards  
 
 - **Outstanding Graduate of Zhejiang Province** *(2024)* 
 - **China National Scholarship** *(2023)*  
