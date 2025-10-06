@@ -37,7 +37,7 @@ I graduated with a B.A. in Finance from the same institution in 2024, and then d
    📌 Presented at: 2025 Chinese Finance Annual Meeting  
    📝 The first draft will be uploaded soon.  
 
-4. **How Monetary Policy Affects Wealth Inequality: Evidence from Stock Transactions** [New!]
+4. **How Monetary Policy Affects Wealth Inequality: Evidence from Stock Transactions** [New!]  
    *(with [Yuan Ren](https://person.zju.edu.cn/renyuanfinance), and [Yizhong Wang](https://person.zju.edu.cn/wyz))*  
    🚧 **Currently focusing on completing this paper.**  
 
