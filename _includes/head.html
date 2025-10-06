@@ -4,7 +4,8 @@
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" 
+      type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -20,10 +21,66 @@
 
 <meta http-equiv="cleartype" content="on">
 
+<!-- =============================================== -->
+<!-- 🌗 Dark Mode Toggle Script (added by Jiawei) -->
+<!-- =============================================== -->
 <script>
-  // 从 localStorage 读取主题设置
+  // 从 localStorage 读取上次选择的主题
   const currentTheme = localStorage.getItem('theme');
   if (currentTheme === 'dark') {
     document.documentElement.setAttribute('data-theme', 'dark');
   }
+</script>
+
+<style>
+  /* 夜间模式样式 */
+  [data-theme='dark'] body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  [data-theme='dark'] a {
+    color: #9ecbff;
+  }
+
+  [data-theme='dark'] h1,
+  [data-theme='dark'] h2,
+  [data-theme='dark'] h3 {
+    color: #ffffff;
+  }
+
+  /* 主题切换按钮 */
+  #theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    z-index: 1000;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const button = document.createElement('button');
+    button.id = 'theme-toggle';
+    button.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '🌞' : '🌙';
+    document.body.appendChild(button);
+
+    button.addEventListener('click', () => {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      if (current === 'dark') {
+        html.removeAttribute('data-theme');
+        localStorage.removeItem('theme');
+        button.textContent = '🌙';
+      } else {
+        html.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+        button.textContent = '🌞';
+      }
+    });
+  });
 </script>
